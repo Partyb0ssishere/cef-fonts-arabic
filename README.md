@@ -1,4 +1,4 @@
-# cef-fonts-arabic
+# CEF Fonts Arabic
 这里是我的实验性字体 CEF Fonts Arabic 项目。本项目仍在开发中。  
 Here is the project of my expiremental font CEF Fonts Arabic. Still under heavy development.  
 
